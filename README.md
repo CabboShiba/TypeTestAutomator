@@ -7,7 +7,8 @@ The bot uses Selenium WebDriver to make the typing test (https://www.livechat.co
 
 You will get the highest WPM, CPM, and Accuracy possible for this test (507 WPM, about 2259 CPM, and 100% Accuracy).
 
-![image](https://user-images.githubusercontent.com/92642446/198725089-42d348ba-294a-4799-b8f3-14ebd2ff6042.png)
+![image](https://user-images.githubusercontent.com/92642446/198725598-e3995f31-1527-4aea-b137-921af935128f.png)
+
 
 
 #Do you want to contact me?
