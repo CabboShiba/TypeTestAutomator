@@ -13,6 +13,6 @@ You will get the highest WPM, CPM, and Accuracy possible for this test (507 WPM,
 
 #Do you want to contact me?
 
-Discord: FreeCabbo10#6558
+Discord: FreeCabbo11#9191
 
 Telegram: https://t.me/cabboshiba
